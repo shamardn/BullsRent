@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34356340573",
+    "project_id": "bull-s-rent-c2b08",
+    "storage_bucket": "bull-s-rent-c2b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34356340573:android:1a06cf5d17c9084fc52ab4",
+        "android_client_info": {
+          "package_name": "com.shamardn.android.bullsrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34356340573-n27mgi0g210m225r53tb5c4aurgt0lfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NX7Ep6Wimmvx5FE91KLG3KvjPN0QV4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34356340573-n27mgi0g210m225r53tb5c4aurgt0lfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
