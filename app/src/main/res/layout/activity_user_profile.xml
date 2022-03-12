@@ -37,7 +37,7 @@
             android:fontFamily="@font/bungee"
             android:maxLength="15"
             android:singleLine="true"
-            android:text="Wael Shamardn Helmy"
+            android:text="@string/user_name"
             android:textColor="@color/black"
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
