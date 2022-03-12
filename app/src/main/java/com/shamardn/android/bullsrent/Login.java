@@ -55,6 +55,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
         }
     }
 
+
     private void updateUI(FirebaseUser user) {
         Intent signInIntent = new Intent(getApplicationContext(),UserProfile.class);
         startActivity(signInIntent);
